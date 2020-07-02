@@ -28,7 +28,6 @@ using System.Drawing;
 using System.Collections.ObjectModel;
 using System.Net;
 using System.Diagnostics;
-using System.Drawing.Drawing2D;
 
 namespace Xceed.Document.NET
 {

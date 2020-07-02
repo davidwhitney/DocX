@@ -22,11 +22,7 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle( "Xceed Words for .NET" )]
 [assembly: AssemblyDescription( "This assembly implements the classes for Xceed Words for .NET." )]
-
-[assembly: AssemblyCompany( "Xceed Software Inc." )]
-[assembly: AssemblyProduct( "Xceed Words for .NET" )]
 [assembly: AssemblyCopyright( "Copyright (C) Xceed Software Inc. 2009-2020" )]
 [assembly: AssemblyCulture("")]
 
@@ -37,8 +33,3 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 #pragma warning disable 1699
-[assembly: AssemblyDelaySign( false )]
-[assembly: AssemblyKeyFile( @"..\..\sn.snk" )]
-[assembly: AssemblyKeyName( "" )]
-#pragma warning restore 1699
-
